@@ -55,4 +55,4 @@ Kaggle
 Why This Matters to Me
 In my work as a Fundraising Analyst, I spent years helping nonprofit organizations understand donor behavior — identifying who was at risk of lapsing, what drove retention, and how to allocate budget across channels to maximize long-term value. This project is a direct translation of that thinking into a broader analytics context. The business problem is the same. The methodology is the same. The stakes are the same.
 
-Project by Evelynn Stephens | LinkedIn | stephensevelynn@gmail.com
+Project by Evelynn Stephens |https://www.linkedin.com/in/evelynn-stephens-datascience/| stephensevelynn@gmail.com
