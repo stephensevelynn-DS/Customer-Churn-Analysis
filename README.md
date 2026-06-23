@@ -1,5 +1,5 @@
 # Customer Churn Prediction & Analysis
- ![Project Thumbnail]churn_thumbnail.jpg
+ ![Project Thumbnail]churn_thumbnail(1).jpg
 ## Business Problem
 Customer churn is one of the most costly challenges any subscription or service-based business faces. This project builds a predictive model to identify customers most at risk of churning — enabling businesses to intervene early and protect revenue.
  
